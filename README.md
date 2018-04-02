@@ -1,5 +1,3 @@
-Software used - <a hred = 'https://www.blender.org/'>Blender</a>
-
 
 <b>Final render using Blender's internal rendering engine</b>
 
@@ -12,3 +10,6 @@ Software used - <a hred = 'https://www.blender.org/'>Blender</a>
 
 
 ![Scene](https://github.com/Asutosh11/House-with-basketball-court/blob/master/blender-work-screenshot.PNG "")
+
+
+Software used - <a href = 'https://www.blender.org/'>Blender</a>
